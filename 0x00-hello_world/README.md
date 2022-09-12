@@ -30,7 +30,13 @@ You are not allowed to use printf
 
 Your program should end with the value 0
 task 5- Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+advanced task 2- Write a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
 
+You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts
+
+Your program should return 1
+
+Your program should compile without any warnings when using the -Wall gcc option
 Use the function printf
 
 You are not allowed to use the function puts
