@@ -15,3 +15,4 @@ The output file should be named the same as the C file, but with the extension .
 task 3-a script that compiles a C file and creates an executable named cisfun.
 
 The C file name will be saved in the variable $CFILE  /n 
+task 4-
